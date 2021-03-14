@@ -1,0 +1,7 @@
+{
+  "python.pythonPath": "c:\\Users\\HP\\Source\\python\\eventAPI\\venv\\Scripts\\python.exe",
+  "editor.tabSize": 4,
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": false,
+  "python.linting.flake8Enabled": true
+}
